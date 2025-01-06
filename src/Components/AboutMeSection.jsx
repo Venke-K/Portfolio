@@ -16,7 +16,7 @@ function AboutMeSection() {
 <div className="col-lg-4 text-center mb-4 mb-lg-0">
   <div className="profile-photo-container">
     <img
-      src="src/assets/avatar/proPic.jpg"
+      src="./src/assets/avatar/proPic.jpg"
       alt="Your Name"
       className="profile-photo"
     />
