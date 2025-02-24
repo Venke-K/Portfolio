@@ -62,6 +62,26 @@ function ProjectSection() {
         </div>
       </div>
 
+
+       {/* <!-- Project Card 3 --> */}
+       <div className="col-md-6 col-lg-4">
+  <div className="modern-card shadow-sm border-0 rounded overflow-hidden position-relative">
+    <img src="https://www.shutterstock.com/shutterstock/photos/1899965989/display_1500/stock-photo-note-book-cash-dollars-money-pen-pink-note-with-text-written-where-does-my-money-go-concept-of-1899965989.jpg" className="card-img-top" alt="Expense Tracker"/>
+    <div className="modern-card-content p-4 text-white d-flex flex-column justify-content-end">
+      <h5 className="fw-bold mb-2">Expense Tracker 💸</h5>
+      <p className="text-light">
+        A full-stack Expense Tracker application with secure user authentication, expense tracking, filtering, and summary charts.
+      </p>
+      <p className="text-light"><small>Tech Stack: MERN, JWT, Chart.js, Bootstrap</small></p>
+      <div className="d-flex justify-content-between align-items-center mt-2">
+        <a href="https://statuesque-semolina-b1e091.netlify.app/" target="_blank" className="btn btn-primary btn-sm">Live Demo</a>
+        <a href="https://github.com/Venke-K/expense-tracker" target="_blank" className="btn btn-outline-light btn-sm">GitHub</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
     </div>
   </div>
 </section>
